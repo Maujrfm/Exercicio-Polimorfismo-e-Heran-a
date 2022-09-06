@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).exe
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).deps.json
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).dll
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\ref\Exercicio Polimorfismo e Herança (aula 143).dll
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\bin\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).pdb
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).dll
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\ref\Exercicio Polimorfismo e Herança (aula 143).dll
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).pdb
+F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\obj\Debug\net5.0\Exercicio Polimorfismo e Herança (aula 143).genruntimeconfig.cache

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Exercicio_Polimorfismo_e_Herança__aula_143_
+build_property.ProjectDir = F:\ws-vs2019\Projetos\Exercicio Polimorfismo e Herança (aula 143)\Exercicio Polimorfismo e Herança (aula 143)\
